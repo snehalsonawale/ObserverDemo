@@ -47,4 +47,5 @@ class Observer : LifecycleObserver {
         Log.d("%%MAIN","Observer- ON_DESTROY")
     }
 
+
 }
